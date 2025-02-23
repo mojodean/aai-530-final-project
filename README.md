@@ -34,9 +34,11 @@ from tensorflow.keras.optimizers import Adam
 
 To design an IoT system that can detect anomalies and energy consumption in a smart home.
 
-`530_IoT_project.ipynb` - Autoencoder
-`Final_LSTM2.ipynb` - LSTM
-`df_test_10.csv` - dataframe of the anomalies for the Tableau
+- `530_IoT_project.ipynb` - Autoencoder
+
+- `Final_LSTM2.ipynb` - LSTM
+
+- `df_test_10.csv` - dataframe of the anomalies for the Tableau
 
 ### Project Team Members
 
