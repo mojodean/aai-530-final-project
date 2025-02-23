@@ -34,11 +34,15 @@ from tensorflow.keras.optimizers import Adam
 
 To design an IoT system that can detect anomalies and energy consumption in a smart home.
 
+`530_IoT_project.ipynb` - Autoencoder
+`Final_LSTM2.ipynb` - LSTM
+`df_test_10.csv` - dataframe of the anomalies for the Tableau
+
 ### Project Team Members
 
 - Payal Patel
 
-- Vivial Perng
+- Vivian Perng
 
 - Dean P. Simmer
 
@@ -61,4 +65,4 @@ To design an IoT system that can detect anomalies and energy consumption in a sm
 
 ### Project Description
 
-This study explores smart home energy consumption patterns and the potential for anomaly detection and forecasting using machine learning techniques. Using a dataset of 509,910 observations from a smart meter, the analysis examines energy consumption across different household appliances and its correlation with weather-related variables. A deep learning autoencoder was employed for anomaly detection, and identified irregularities in energy use. Additionally, a Long-Short Term Memory (LSTM) model was used to predict future energy consumption, achieving 99.83% accuracy in its predictive trends across seven days.
+This study explores smart home energy consumption patterns and the potential for anomaly detection and forecasting using machine learning techniques. Using a dataset of 509,910 observations from a smart meter, the analysis examines energy consumption across different household appliances and its correlation with weather-related variables. A deep learning autoencoder was employed for anomaly detection, and identified irregularities in energy use. Additionally, a Long-Short Term Memory (LSTM) model was used to predict future energy consumption, achieving 99.84% accuracy in its predictive trends across seven days.
