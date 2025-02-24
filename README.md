@@ -1,5 +1,5 @@
 # aai-530-final-project
-# Project Title: TBD
+# Project Title: Smart Home Energy Consumption Anomaly Detection and Forecasting
 
 This project is part of the AAI-530 course in the Applied Aritificial Intelligence Program at the University of San Diego (USD).
 
